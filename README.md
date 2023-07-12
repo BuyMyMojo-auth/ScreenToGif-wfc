@@ -114,3 +114,5 @@ That's not why I'm sharing the source code, at all.
 * [Chocolatey](https://chocolatey.org/packages/screentogif)
 * [FOSSHUB](https://www.fosshub.com/ScreenToGif.html)
 * [Microsoft Store](https://www.microsoft.com/en-us/p/screentogif/9n3sqk8pds8g)
+
+  
