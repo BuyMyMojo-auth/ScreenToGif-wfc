@@ -5,9 +5,9 @@ name: .NET
 
 on:
   push:
-    branches: [ "feature_SystemCapture" ]
+    branches: [ "master", "feature_SystemCapture" ]
   pull_request:
-    branches: [ "feature_SystemCapture" ]
+    branches: [ "master", "feature_SystemCapture" ]
 
 jobs:
   build:
